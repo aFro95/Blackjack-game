@@ -3,7 +3,7 @@
 This Python program is a simplified version of the classic card game Blackjack. 
 It allows you to play a single-player game against the computer. The game follows the basic rules of Blackjack, where the goal is to get as close to 21 points as possible without going over.
 
-<img src="Blackjack game.png" alt="Blackjack" style="width: 500px; height: 500px">
+<img src="Blackjack game.png" alt="Blackjack" style="width: 400px; height: 200px">
 
 ## Introduction
 
