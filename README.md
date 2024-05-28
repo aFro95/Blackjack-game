@@ -2,6 +2,7 @@
 
 This Python program is a simplified version of the classic card game Blackjack. 
 It allows you to play a single-player game against the computer. The game follows the basic rules of Blackjack, where the goal is to get as close to 21 points as possible without going over.
+<img src="Blackjack.png" alt="Blackjack" style="width: 500px; height: 500px">
 
 ## Introduction
 
@@ -22,3 +23,24 @@ It provides a simple and straightforward interface, allowing you to play Blackja
 
    ```sh
    git clone https://github.com/aFro95/Blackjack-game.git
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork this repository.
+2. Create a branch:
+```bash
+git checkout -b feature/new-feature
+```
+3. Commit your changes:
+```bash
+git commit -m 'Add some feature'
+```
+4. Push to the branch:
+```bash
+git push origin feature/new-feature
+```
+5. Create a pull request.
+
+## License
+This project is licensed under the MIT License.
